@@ -9,7 +9,7 @@ A Clojure key-value store library.
                            store-get store-put! store-delete!]])
 ```
 
-Please see the Marginalia-generated [documentation](doc/uberdoc.html)
+Please see the Marginalia-generated [documentation](docs/uberdoc.html)
 for more information.
 
 ## License
