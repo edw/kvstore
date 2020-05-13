@@ -11,8 +11,7 @@ A Clojure key-value store library.
 
 Please see the Marginalia-generated
 [documentation](https://poseur.com/kvstore-docs.html) for more
-information. To read it, clone this repository locally and open in the
-web browser of your choice.
+information.
 
 ## License
 
