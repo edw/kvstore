@@ -5,8 +5,8 @@ A Clojure key-value store library.
 ## Usage
 
 ```clojure
-(require '[kvstore :refer [make-store store-close!
-                           store-get store-put! store-delete!]])
+(require '[kvstore.core :refer [make-store store-close!
+                                store-get store-put! store-delete!]])
 ```
 
 Please see the Marginalia-generated
